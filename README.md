@@ -18,5 +18,4 @@ The API provides the following endpoints:
 NOTE:
 
 For the database, I used an in-memory data structure such as list or dictionaries.
-I also used Pydantic for data validation and the appropriate status codes where necessary.
-Proper code structuring was also utilized.
+I also used Pydantic for data validation and the appropriate status codes where necessary. Proper code structuring was also utilized.
